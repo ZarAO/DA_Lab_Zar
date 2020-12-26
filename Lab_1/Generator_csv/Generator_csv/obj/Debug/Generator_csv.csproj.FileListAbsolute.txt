@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Generator_csv\Generator_csv\bin\Debug\Generator_csv.exe.config
+C:\Users\User\source\repos\Generator_csv\Generator_csv\bin\Debug\Generator_csv.exe
+C:\Users\User\source\repos\Generator_csv\Generator_csv\bin\Debug\Generator_csv.pdb
+C:\Users\User\source\repos\Generator_csv\Generator_csv\obj\Debug\Generator_csv.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Generator_csv\Generator_csv\obj\Debug\Generator_csv.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generator_csv\Generator_csv\obj\Debug\Generator_csv.exe
+C:\Users\User\source\repos\Generator_csv\Generator_csv\obj\Debug\Generator_csv.pdb
